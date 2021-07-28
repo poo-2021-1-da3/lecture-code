@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="IntStackTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-07-28T14:02:29" hostname="inspiron" time="0.045">
+  <properties/>
+  <testcase name="testPop()" classname="IntStackTest" time="0.026"/>
+  <testcase name="testClear()" classname="IntStackTest" time="0.001"/>
+  <testcase name="testEmpty()" classname="IntStackTest" time="0.001"/>
+  <testcase name="testFull()" classname="IntStackTest" time="0.001"/>
+  <testcase name="testPeek()" classname="IntStackTest" time="0.001"/>
+  <testcase name="testPush()" classname="IntStackTest" time="0.001"/>
+  <testcase name="testToString()" classname="IntStackTest" time="0.002"/>
+  <testcase name="testFullExceptionOnPush()" classname="IntStackTest" time="0.002"/>
+  <testcase name="testEmptyExceptionOnPeek()" classname="IntStackTest" time="0.001"/>
+  <testcase name="testEmptyExceptionOnPop()" classname="IntStackTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
